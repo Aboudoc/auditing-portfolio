@@ -44,7 +44,7 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
 | Monad | L1 | 1 | - | — | [Report](https://code4rena.com/audits/2025-09-monad) |
-| Megapot | DeFi | - | 1 | — | [Report](https://code4rena.com/reports/2025-11-megapot) |
+| Megapot | Jackpot | - | 1 | — | [Report](https://code4rena.com/reports/2025-11-megapot) |
 | GTE Spot CLOB and Router | DeFi | - | 1 | — | [Report](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) |
 
 
