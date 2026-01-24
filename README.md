@@ -11,8 +11,6 @@ This portfolio showcases my audit work in the Web3 security space, including pub
 
 I am a security researcher who participates in competitive audits on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), in addition to conducting private audits.
 
-- Twitter 
-
 Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/AboutikaR)  
 
 ---
