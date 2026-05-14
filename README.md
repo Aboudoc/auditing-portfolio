@@ -17,12 +17,11 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 ## 📊 Audit Overview
 
-**Total audits**: 16+  
-**Severities**: 14+ Critical • 25+ High • 58+ Medium • 47+ Low/QA  
-**Best placement**: 9th place 
+**Total audits**: 21+  
+**Severities**: 14+ Critical • 27+ High • 61+ Medium • 50+ Low/QA  
 **Top-10 finishes**: 11 (shown in highlights)  
-**Platforms**: Code4rena • Sherlock • Cantina 
-**Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • L1 Blockchain
+**Platforms**: Code4rena • Sherlock • Cantina  
+**Verticals**:  L1 Blockchain • Cross-chain Messaging • DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino 
 
 ---
 
@@ -30,6 +29,7 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 | Contest | Platform | Rank | About | Report |
 |---------|----------|------|-------|--------|
+| Monad | <img src="favicons/code4rena.ico" alt="Code4rena"/> Code4rena | 10 | L1 | [Report](https://code4rena.com/reports/2025-09-monad) |
 | Octant v2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 10/609 | Vault Infra | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | Telecoin Network | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 9/687 | L1 | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Mezo | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
@@ -43,22 +43,27 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
-| Monad | L1 | 1 | - | — | [Report](https://code4rena.com/audits/2025-09-monad) |
-| Megapot | Jackpot | - | 1 | — | [Report](https://code4rena.com/reports/2025-11-megapot) |
-| GTE Spot CLOB and Router | DeFi | - | 1 | — | [Report](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) |
+| Monad | L1 | 1 | — | — | [Report](https://code4rena.com/reports/2025-09-monad) |
+| LayerZero - Stellar Endpoint | Cross-chain | — | — | 1 | [Report](https://code4rena.com/reports/2026-04-layerzero-stellar-endpoint) |
+| GTE Spot CLOB and Router | DeFi | — | 1 | — | [Report](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) |
+| Megapot | Jackpot | — | 1 | 1 | [Report](https://code4rena.com/reports/2025-11-megapot) |
+| Size | DeFi | 1 | 1 | — | [Report](https://code4rena.com/reports/2024-06-size) |
+| Ethereum Credit Guild | DeFi | 1 | - | — | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild) |
+
 
 
 ### <img src="favicons/cantina.ico" alt="Cantina"/> Cantina
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
-| Octant v2 | Vault | — | 1 | — | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview) |
+| Octant v2 | Vault Infra | — | 1 | — | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview) |
 | Kuru | AMM | — | 1 | — | [Report](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/) |
 | Telcoin Network | L1 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
-| Ammalgam | Lending Exchange  | - | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
+| Ammalgam | Lending Exchange | — | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
 | Jigsaw | Stablecoin | 3 | 3 | 1 | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
 | Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Silo v2 | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
+| Revert Finance - StableSwap Hooks | DeFi / Hooks | — | 2 | — | [Report](#) |
 
 ---
 
