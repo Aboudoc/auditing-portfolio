@@ -29,7 +29,7 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 | Contest | Platform | Rank | About | Report |
 |---------|----------|------|-------|--------|
-| Monad | <img src="favicons/code4rena.ico" alt="Code4rena"/> Code4rena | 10 | L1 | [Report](https://code4rena.com/reports/2025-09-monad) |
+| Monad | <img src="favicons/code4rena.png" alt="Code4rena"/> Code4rena | 10 | L1 | [Report](https://code4rena.com/reports/2025-09-monad) |
 | Octant v2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 10/609 | Vault Infra | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | Telecoin Network | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 9/687 | L1 | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Mezo | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
