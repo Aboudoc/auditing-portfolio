@@ -9,7 +9,7 @@ This portfolio showcases my audit work in the Web3 security space, including pub
 
 ## 🧑‍💻 About Me
 
-I am a security researcher who participates in competitive audits on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), in addition to conducting private audits.
+I am a security researcher who participates in competitive audits on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), [Cantina](https://cantina.xyz), and [HackenProof](https://hackenproof.com), in addition to conducting private audits and participating in bug bounty programs.
 
 Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/AboutikaR)  
 
@@ -18,9 +18,9 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 ## 📊 Audit Overview
 
 **Total audits**: 21+  
-**Severities**: 14+ Critical • 27+ High • 61+ Medium • 50+ Low/QA  
+**Severities**: 14+ Critical • 27+ High • 61+ Medium • 53+ Low/QA  
 **Top-10 finishes**: 11 (shown in highlights)  
-**Platforms**: Code4rena • Sherlock • Cantina  
+**Platforms**: Code4rena • Sherlock • Cantina • HackenProof  
 **Verticals**:  L1 Blockchain • Cross-chain Messaging • DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino 
 
 ---
@@ -64,6 +64,16 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 | Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Silo v2 | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 | Revert Finance - StableSwap Hooks | DeFi / Hooks | — | 2 | — | [Report](#) |
+
+---
+
+## 🐛 Bug Bounty
+
+### <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof
+
+| Protocol | About | High | Medium | Low/QA |
+|----------|-------|------|--------|--------|
+| Hyperbridge | Cross-chain | — | — | 3 |
 
 ---
 
