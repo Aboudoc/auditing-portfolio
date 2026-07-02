@@ -43,10 +43,10 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 | Contest | About | Date | High | Medium | Low/QA | Security Report |
 |---------|-------|------|------|--------|--------|-----------------|
-| Monad | L1 | Sep 2025 | 1 | — | — | [Report](https://code4rena.com/reports/2025-09-monad) |
 | LayerZero - Stellar Endpoint | Cross-chain | Apr 2026 | — | — | 1 | [Report](https://code4rena.com/reports/2026-04-layerzero-stellar-endpoint) |
-| GTE Spot CLOB and Router | DeFi | Jul 2025 | — | 1 | — | [Report](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) |
 | Megapot | Jackpot | Nov 2025 | — | 1 | 1 | [Report](https://code4rena.com/reports/2025-11-megapot) |
+| Monad | L1 | Sep 2025 | 1 | — | — | [Report](https://code4rena.com/reports/2025-09-monad) |
+| GTE Spot CLOB and Router | DeFi | Jul 2025 | — | 1 | — | [Report](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) |
 | Size | DeFi | Jun 2024 | 1 | 1 | — | [Report](https://code4rena.com/reports/2024-06-size) |
 | Ethereum Credit Guild | DeFi | Dec 2023 | 1 | - | — | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild) |
 
@@ -56,32 +56,32 @@ Interested in working together? DM me (EVDoc): [@AboutikaR](https://x.com/Abouti
 
 | Contest | About | Date | High | Medium | Low/QA | Security Report |
 |---------|-------|------|------|--------|--------|-----------------|
+| Revert Finance - StableSwap Hooks | DeFi / Hooks | Apr 2026 | — | 2 | — | [Report](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) |
 | Octant v2 | Vault Infra | Sep 2025 | — | 1 | — | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | Kuru | AMM | Aug 2025 | — | 1 | — | [Report](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/) |
-| Telcoin Network | L1 | Jun 2025 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Ammalgam | Lending Exchange | Jul 2025 | — | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
+| Telcoin Network | L1 | Jun 2025 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Jigsaw | Stablecoin | May 2025 | 3 | 3 | 1 | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
 | Mezo | Stablecoin | Apr 2025 | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Silo v2 | Lending | Jan 2025 | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
-| Revert Finance - StableSwap Hooks | DeFi / Hooks | Apr 2026 | — | 2 | — | [Report](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) |
-
----
-
-## 🐛 Bug Bounty & Contests
 
 ### <img src="favicons/hackenproof.png" alt="HackenProof" width="16" height="16"/> HackenProof
 
-**Contests** — 🟡 *Ongoing: findings triaged, awaiting final resolution (counts not yet reflected in the totals above).*
+🟡 *Ongoing: contest findings triaged, awaiting final resolution (counts not yet reflected in the totals above).*
 
 | Contest | About | Date | Critical | High | Medium | Low/QA | Status |
 |---------|-------|------|----------|------|--------|--------|--------|
 | 0xMarkets | Perpetuals | Jun 2026 | — | 2 | 1 | — | 🟡 Ongoing — triaged & validated by HackenProof, awaiting final decision |
 | TipRun | Prediction Market | Jun 2026 | 1 | — | — | — | 🟡 Ongoing — triaged, in review by devs |
 
-**Bug Bounty**
+---
 
-| Protocol | About | High | Medium | Low/QA |
-|----------|-------|------|--------|--------|
+## 🐛 Bug Bounty
+
+### <img src="favicons/hackenproof.png" alt="HackenProof" width="16" height="16"/> HackenProof
+
+| Protocol | About | High | Medium | Low |
+|----------|-------|------|--------|-----|
 | Hyperbridge | Cross-chain | — | — | 3 |
 
 ---
