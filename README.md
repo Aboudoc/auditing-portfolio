@@ -29,6 +29,7 @@ Alongside contests, I deliver **private audits** — six to date, including a jo
 - **11 top-10 finishes** — Telcoin Network (**9/687**) · Octant v2 (**10/609**) · Mezo (**10/475**) · Silo v2 (**10/416**) · Monad (**top 10**) · +6 more
 - **Beyond the EVM** — findings on an L1 node (Monad), LayerZero's Stellar endpoint and Hyperbridge (cross-chain)
 - **Technical writing** — 3-part Liquity V2 deep-dive (stablecoin/CDP) · multi-agent AI code-review pipeline on the [HackenProof blog](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline)
+- **Tooling** — 5 private AI-assisted audit pipelines built and used across the work above (see Audit Tooling below)
 - **Verticals** — L1 Blockchain · Cross-chain Messaging · DEX · Perpetuals · Stablecoin · Vault Infra · Marketplace · Options AMM · Staking · Grants · Bonding Curves · Lending · Liquidity · Escrow · Casino · Prediction Market
 
 ---
@@ -109,6 +110,17 @@ Protocol deep-dives and security tooling — on the same classes of systems I au
 | [Liquity V2, Part 3 — Multi-Layered Stabilization: Redemption, Interest, and Liquidation](https://midgar.hashnode.dev/liquity-v2-part-3-multi-layered-stabilization-redemption-interest-and-liquidation) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
 | [Liquity V2, Part 2 — Diving Deeper: Troves, Batch Troves, and the Trio of Pools](https://midgar.hashnode.dev/liquity-v2-part-2-diving-deeper-troves-batch-troves-and-the-trio-of-pools) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
 | [Liquity V2, Part 1 — Meet BOLD: Multi-Collateral Stability Without Governance](https://midgar.hashnode.dev/liquity-v2-part-1-meet-bold-multi-collateral-stability-without-governance) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
+
+---
+
+## 🛠️ Audit Tooling
+
+I build the AI-assisted pipelines behind my contest work — five to date, kept private: they're my edge. The approach itself is public — a [demo repo](https://github.com/Aboudoc/multi-agent-audit-pipeline) and a [write-up on the HackenProof blog](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline).
+
+- **Oni v2** — multi-agent smart-contract audit pipeline, native Claude Code architecture (slash command + skill + 10 specialized sub-agents), with mechanical verification of every finding
+- **Kitsune** — multi-provider pipeline built on LangGraph: each sub-agent runs on a different model family (Anthropic · OpenAI · Google) to exploit cross-family error decorrelation
+- **Saito** — the Oni engine ported to trust-boundary security for multi-tenant SaaS (Supabase RLS · Edge Functions) — battle-tested in production on my own app
+- *…plus two more in private daily use*
 
 ---
 
