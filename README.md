@@ -12,7 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm **EVDoc**, an independent security researcher specialized in smart-contract audits. I moved into Web3 after a senior security-research career in Web2, and since late 2023 I've competed on [Code4rena](https://code4rena.com), [Cantina](https://cantina.xyz) and [HackenProof](https://hackenproof.com) — finishing **top-10 in 11 of my 14 concluded contests**, including in fields of **400–700 researchers**.
+I'm **EVDoc**, an independent security researcher specialized in smart-contract audits. Since late 2023 I've competed on [Code4rena](https://code4rena.com), [Cantina](https://cantina.xyz) and [HackenProof](https://hackenproof.com) — finishing **top-10 in 11 of my 14 concluded contests**, including in fields of **400–700 researchers**.
+
+Before Web3, I was **Chief Market Analyst at XTB France** (Paris). That financial-markets background is an edge on the protocols I audit most — perpetuals, order books, lending, stablecoins — where the highest-impact bugs sit in the economic mechanics, not just the code.
 
 Alongside contests, I deliver **private audits** — six to date, including a joint engagement with [Guardian Audits](https://github.com/GuardianAudits) on Parifi — and hunt on bug-bounty programs.
 
