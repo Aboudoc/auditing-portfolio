@@ -28,6 +28,7 @@ Alongside contests, I deliver **private audits** — six to date, including a jo
 - **150+ findings** — 14 Critical · 27 High · 61 Medium · 52 Low/QA
 - **11 top-10 finishes** — Telcoin Network (**9/687**) · Octant v2 (**10/609**) · Mezo (**10/475**) · Silo v2 (**10/416**) · Monad (**top 10**) · +6 more
 - **Beyond the EVM** — findings on an L1 node (Monad), LayerZero's Stellar endpoint and Hyperbridge (cross-chain)
+- **Technical writing** — 3-part Liquity V2 deep-dive (stablecoin/CDP) · multi-agent AI code-review pipeline on the [HackenProof blog](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline)
 - **Verticals** — L1 Blockchain · Cross-chain Messaging · DEX · Perpetuals · Stablecoin · Vault Infra · Marketplace · Options AMM · Staking · Grants · Bonding Curves · Lending · Liquidity · Escrow · Casino · Prediction Market
 
 ---
@@ -95,6 +96,19 @@ Conducted with [Midgar Audits](https://github.com/midgar-audits/public-audits); 
 | DeGaming - Bankroll | Vault | Mar 2024 | 2 | 6 | 6 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Bankroll%20Contracts%20Security%20Audit%20v.1.1.pdf) |
 | DeGaming | Casino | Feb 2024 | 5 | 1 | 11 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
 | Parifi (Midgar × Guardian) | Perpetuals | Jan 2024 | 1 | 5 | 11 | 18 | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
+
+---
+
+## ✍️ Research & Writing
+
+Protocol deep-dives and security tooling — on the same classes of systems I audit.
+
+| Article | Topic | Date | Published on |
+|---------|-------|------|--------------|
+| [Build a Multi-Agent AI Code Review Pipeline](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline) | AI × audit tooling | — | <img src="favicons/hackenproof.png" alt="HackenProof" width="16" height="16"/> HackenProof Blog |
+| [Liquity V2, Part 3 — Multi-Layered Stabilization: Redemption, Interest, and Liquidation](https://midgar.hashnode.dev/liquity-v2-part-3-multi-layered-stabilization-redemption-interest-and-liquidation) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
+| [Liquity V2, Part 2 — Diving Deeper: Troves, Batch Troves, and the Trio of Pools](https://midgar.hashnode.dev/liquity-v2-part-2-diving-deeper-troves-batch-troves-and-the-trio-of-pools) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
+| [Liquity V2, Part 1 — Meet BOLD: Multi-Collateral Stability Without Governance](https://midgar.hashnode.dev/liquity-v2-part-1-meet-bold-multi-collateral-stability-without-governance) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
 
 ---
 
