@@ -106,6 +106,7 @@ Protocol deep-dives and security tooling — on the same classes of systems I au
 
 | Article | Topic | Date | Published on |
 |---------|-------|------|--------------|
+| [Web2 Bugs Hiding in Web3: The Smart Contract Security Blind Spot](https://hackenproof.com/blog/web2-bugs-web3-smart-contract-security) | Web2 vulnerabilities × smart contracts | Jul 2026 | <img src="favicons/hackenproof.png" alt="HackenProof" width="16" height="16"/> HackenProof Blog |
 | [Build a Multi-Agent AI Code Review Pipeline](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline) | AI × audit tooling | Jun 2026 | <img src="favicons/hackenproof.png" alt="HackenProof" width="16" height="16"/> HackenProof Blog |
 | [Liquity V2, Part 3 — Multi-Layered Stabilization: Redemption, Interest, and Liquidation](https://midgar.hashnode.dev/liquity-v2-part-3-multi-layered-stabilization-redemption-interest-and-liquidation) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
 | [Liquity V2, Part 2 — Diving Deeper: Troves, Batch Troves, and the Trio of Pools](https://midgar.hashnode.dev/liquity-v2-part-2-diving-deeper-troves-batch-troves-and-the-trio-of-pools) | Stablecoin / CDP | Sep 2025 | Midgar (Hashnode) |
